@@ -5,11 +5,16 @@ output: github_document
 <!-- README.md is generated from README.Rmd. Please edit the README.Rmd file -->
 
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+
 
 # Lab report #1
+
+("This is a testing text")
+
+("I would summarize my experience as a good and beneficial assignment as I used to work on Rstudion without linking it to Github. It was my first time using Github. The process of doing this lab is clear, and the provided codes in all the steps helped me. The only step I was stuck in was step 12-5, but with the help of the instructor, it was so easy to fix.")
+```{r}
+("I would summarize my experience as a good and beneficial assignment as I used to work on Rstudion without linking it to Github. It was my first time using Github. The process of doing this lab is clear, and the provided codes in all the steps helped me. The only step I was stuck in was step 12-5, but with the help of the instructor, it was so easy to fix.")
+```
 
 Follow the instructions posted at https://ds202-at-isu.github.io/labs.html for the lab assignment. The work is meant to be finished during the lab time, but you have time until Monday evening to polish things.
 
